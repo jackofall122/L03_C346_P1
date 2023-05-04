@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Demo Simple Click</string>
+    <string name="display">Display</string>
+    <string name="entersomething">Enter Something</string>
+    <string name="displayText">Display what the user says</string>
+</resources>
