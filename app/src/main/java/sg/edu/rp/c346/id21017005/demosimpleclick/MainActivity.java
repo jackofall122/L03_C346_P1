@@ -16,5 +16,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        tvDisplay=findViewById(R.id.textViewDisplay);
+        btnDisplay=findViewById(R.id.buttonDisplay);
+        etInput=findViewById(R.id.et1);
     }
 }
